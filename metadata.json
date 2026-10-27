@@ -1,0 +1,8 @@
+{
+  "name": "FreshMart MERN Grocery Store & Smart Unit Price Assistant",
+  "description": "A responsive MERN stack grocery store with dynamic unit pricing (kg, liter, piece), real-time NoSQL inventory management, and a bottom-left AI chatbot with smart unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
